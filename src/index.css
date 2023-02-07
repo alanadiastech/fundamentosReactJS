@@ -1,0 +1,38 @@
+
+/*CSS AUTOMÁTICO*/
+
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+/*MEU CSS*/
+
+body {
+  padding: 50px;
+  background-color: #DCDCDC;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: #191970;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 24px;
+  padding: 10px;
+}
+
+p {
+  background-color: #999;
+  padding: 10px;
+  border-radius: 15px;
+  font-size: 22px;
+  font-family: 'Times New Roman', Times, serif;
+}
